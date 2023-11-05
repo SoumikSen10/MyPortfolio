@@ -5,7 +5,7 @@ const About = () => {
   const handleDownload = () => {
     // Replace 'resume.pdf' with the actual URL of your resume file.
     const resumeUrl =
-      "https://drive.google.com/file/d/1AvPKXmJT3ZKNN5FuhaVC9YmsBv4GtIU0/view?usp=sharing";
+      "https://drive.google.com/file/d/1fcJk6eua-QTkfvfBBz1fRj48nhyXJDxD/view?usp=sharing";
     // Create an invisible link and trigger a click event to start the download.
     const link = document.createElement("a");
     link.href = resumeUrl;
